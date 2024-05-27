@@ -1,0 +1,12 @@
+{
+  "name": "visx-react-18-repro",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@visx/xychart": "^3.10.2"
+  }
+}
